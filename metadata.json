@@ -1,0 +1,6 @@
+{
+  "name": "درصد باتری",
+  "description": "نمایش زنده درصد واقعی باتری با ارقام فارسی و اعلان صفحه قفل سامسونگ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

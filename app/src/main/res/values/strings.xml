@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">درصد باتری</string>
+    <string name="notification_channel_name">درصد شارژ باتری</string>
+    <string name="notification_channel_desc">نمایش مداوم وضعیت و درصد شارژ باتری روی نوار اعلان و صفحه قفل</string>
+    <string name="status_charging">در حال شارژ</string>
+    <string name="status_discharging">در حال استفاده از باتری</string>
+    <string name="status_full">شارژ کامل</string>
+    <string name="status_not_charging">متصل به برق (شارژ نمی‌شود)</string>
+    <string name="status_unknown">وضعیت نامشخص</string>
+    <string name="battery_data_unavailable">اطلاعات باتری در دسترس نیست</string>
+    <string name="lockscreen_notification_title">شارژ باتری</string>
+</resources>
